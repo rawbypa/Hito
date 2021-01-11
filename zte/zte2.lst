@@ -1,0 +1,1836 @@
+185.122.92.0/22	 185.122.92.0/22	1,024
+185.91.96.0/24	 Berytech SCAL	256
+185.91.98.0/24	 Berytech SCAL	256
+185.91.99.0/24	 Berytech SCAL	256
+212.101.224.0/22	 212.101.224.0/23	1,024
+212.101.224.0/24	 212.101.224.0/23	256
+212.101.225.0/24	 212.101.224.0/23	256
+212.101.226.0/24	 212.101.226.0/24	256
+212.101.227.0/24	 212.101.227.0/24	256
+212.101.228.0/22	 212.101.228.0/24	1,024
+212.101.228.0/24	 212.101.228.0/24	256
+212.101.229.0/24	 212.101.229.0/24	256
+212.101.231.0/24	 212.101.231.0/24	256
+212.101.232.0/22	 212.101.232.0/24	1,024
+212.101.232.0/24	 212.101.232.0/24	256
+212.101.233.0/24	 SODETEL S.A.L.	256
+212.101.234.0/24	 SODETEL S.A.L.	256
+212.101.235.0/24	 212.101.235.0/24	256
+212.101.236.0/22	 212.101.237.0/23	1,024
+212.101.236.0/24	 212.101.236.0/23	256
+212.101.237.0/24	 212.101.237.0/23	256
+212.101.238.0/24	 212.101.237.0/23	256
+212.101.239.0/24	 212.101.239.0/24	256
+212.101.240.0/22	 212.101.240.255/23	1,024
+212.101.240.0/24	 212.101.240.255/23	256
+212.101.243.0/24	 SODETEL S.A.L.	256
+212.101.244.0/22	 212.101.242.0/23	1,024
+212.101.246.0/24	 212.101.246.0/24	256
+212.101.248.0/21	 212.101.247.0/23	2,048
+212.101.248.0/22	 212.101.247.0/23	1,024
+212.101.248.0/24	 212.101.247.0/23	256
+212.101.249.0/24	 212.101.249.0/24	256
+212.101.250.0/24	 212.101.250.0/23	256
+212.101.252.0/22	 212.101.254.0/24	1,024
+212.101.252.0/24	 212.101.252.0/24	256
+212.101.254.0/24	 212.101.254.0/24	256
+212.101.255.0/24	 212.101.255.0/24	256
+212.40.128.0/22	 212.40.128/21	1,024
+212.40.128.0/24	 212.40.128/21	256
+212.40.129.0/24	 212.40.128/21	256
+212.40.130.0/24	 212.40.128/21	256
+212.40.131.0/24	 212.40.128/21	256
+212.40.132.0/22	 212.40.128/21	1,024
+212.40.132.0/24	 212.40.128/21	256
+212.40.133.0/24	 212.40.128/21	256
+212.40.134.0/24	 212.40.128/21	256
+212.40.135.0/24	 212.40.128/21	256
+212.40.136.0/22	 212.40.138.0/24	1,024
+212.40.137.0/24	 212.40.216.0/29	256
+212.40.138.0/24	 212.40.138.0/24	256
+212.40.139.0/24	 212.40.139.0/24	256
+212.40.140.0/22	 212.40.140.0/22	1,024
+212.40.142.0/24	 212.40.140.0/22	256
+212.40.143.0/24	 212.40.140.0/22	256
+212.40.144.0/22	 212.40.144/21	1,024
+212.40.147.0/24	 212.40.144/21	256
+212.40.148.0/22	 212.40.144/21	1,024
+212.40.150.0/24	 212.40.144/21	256
+212.40.151.0/24	 212.40.144/21	256
+212.40.152.0/22	 212.40.152.0/23	1,024
+212.40.153.0/24	 212.40.152.0/23	256
+212.40.154.0/24	 212.40.154/24	256
+212.40.156.0/22	 212.40.156/22	1,024
+212.40.157.0/24	 212.40.156/22	256
+212.40.158.0/24	 212.40.156/22	256
+212.40.159.0/24	 212.40.156/22	256
+5.8.128.0/22	 SODETEL S.A.L.	1,024
+5.8.128.0/24	 SODETEL S.A.L.	256
+5.8.129.0/24	 SODETEL S.A.L.	256
+5.8.130.0/24	 SODETEL S.A.L.	256
+5.8.132.0/22	 SODETEL S.A.L.	1,024
+5.8.132.0/24	 SODETEL S.A.L.	256
+5.8.133.0/24	 SODETEL S.A.L.	256
+5.8.136.0/22	 SODETEL S.A.L.	1,024
+5.8.136.0/24	 SODETEL S.A.L.	256
+5.8.137.0/24	 SODETEL S.A.L.	256
+5.8.140.0/22	 SODETEL S.A.L.	1,024
+5.8.140.0/24	 SODETEL S.A.L.	256
+5.8.141.0/24	 SODETEL S.A.L.	256
+5.8.143.0/24	 SODETEL S.A.L.	256
+5.8.144.0/22	 SODETEL S.A.L.	1,024
+5.8.144.0/24	 SODETEL S.A.L.	256
+5.8.145.0/24	 SODETEL S.A.L.	256
+5.8.146.0/24	 SODETEL S.A.L.	256
+5.8.148.0/22	 SODETEL S.A.L.	1,024
+5.8.148.0/24	 SODETEL S.A.L.	256
+5.8.149.0/24	 SODETEL S.A.L.	256
+5.8.150.0/24	 SODETEL S.A.L.	256
+5.8.152.0/22	 SODETEL S.A.L.	1,024
+5.8.152.0/24	 SODETEL S.A.L.	256
+5.8.153.0/24	 SODETEL S.A.L.	256
+5.8.154.0/24	 SODETEL S.A.L.	256
+5.8.156.0/22	 SODETEL S.A.L.	1,024
+5.8.156.0/24	 SODETEL S.A.L.	256
+5.8.157.0/24	 SODETEL S.A.L.	256
+5.8.158.0/24	 SODETEL S.A.L.	256
+5.8.159.0/24	 SODETEL S.A.L.	256
+80.15.247.0/24	 LOGISTIX	256
+89.108.128.0/22	 SODETEL S.A.L.	1,024
+89.108.128.0/24	 SODETEL S.A.L.	256
+89.108.129.0/24	 SODETEL S.A.L.	256
+89.108.131.0/24	 SODETEL S.A.L.	256
+89.108.133.0/24	 SODETEL S.A.L.	256
+89.108.135.0/24	 SODETEL S.A.L.	256
+89.108.136.0/22	 89.108.137.0-89.108.139.255	1,024
+89.108.137.0/24	 89.108.137.0-89.108.139.255	256
+89.108.138.0/24	 89.108.137.0-89.108.139.255	256
+89.108.139.0/24	 89.108.137.0-89.108.139.255	256
+89.108.140.0/22	 89.108.140.0/22	1,024
+89.108.140.0/24	 89.108.140.0/22	256
+89.108.141.0/24	 89.108.140.0/22	256
+89.108.142.0/24	 89.108.140.0/22	256
+89.108.143.0/24	 89.108.140.0/22	256
+89.108.144.0/24	 89.108.144.192/27	256
+89.108.145.0/24	 89.108.145.128/25	256
+89.108.146.0/24	 89.108.146.128/25	256
+89.108.147.0/24	 89.108.147.128/25	256
+89.108.148.0/22	 89.108.150.0/23	1,024
+89.108.148.0/24	 89.108.148.0/24	256
+89.108.149.0/24	 SODETEL S.A.L	256
+89.108.150.0/24	 89.108.150.0/23	256
+89.108.151.0/24	 89.108.150.0/23	256
+89.108.152.0/22	 SODETEL S.A.L	1,024
+89.108.152.0/24	 SODETEL S.A.L	256
+89.108.153.0/24	 SODETEL S.A.L	256
+89.108.154.0/24	 89.108.154.0/24	256
+89.108.155.0/24	 SODETEL S.A.L	256
+89.108.156.0/22	 SODETEL S.A.L	1,024
+89.108.156.0/24	 SODETEL S.A.L	256
+89.108.157.0/24	 SODETEL S.A.L	256
+89.108.158.0/24	 SODETEL S.A.L	256
+89.108.159.0/24	 SODETEL S.A.L	256
+89.108.160.0/22	 89.108.160.0/24	1,024
+89.108.160.0/24	 89.108.160.0/24	256
+89.108.162.0/24	 89.108.162.0/24	256
+89.108.163.0/24	 89.108.163.0/24	256
+89.108.164.0/22	 89.108.167.0/24	1,024
+89.108.164.0/24	 89.108.164.96/28	256
+89.108.165.0/24	 89.108.165.0/24	256
+89.108.166.0/24	 89.108.166.192/26	256
+89.108.167.0/24	 89.108.167.0/24	256
+89.108.168.0/22	 SODETEL - SAT - S.A.L	1,024
+89.108.168.0/24	 SODETEL - SAT - S.A.L	256
+89.108.169.0/24	 SODETEL - SAT - S.A.L	256
+89.108.170.0/24	 SODETEL - SAT - S.A.L	256
+89.108.171.0/24	 89.108.171.0/24	256
+89.108.172.0/22	 SODETEL S.A.L	1,024
+89.108.172.0/24	 SODETEL S.A.L	256
+89.108.173.0/24	 SODETEL S.A.L	256
+89.108.174.0/24	 SODETEL S.A.L	256
+89.108.175.0/24	 SODETEL S.A.L	256
+89.108.176.0/22	 89.108.176.0/24	1,024
+89.108.176.0/24	 89.108.176.0/24	256
+89.108.177.0/24	 89.108.177.0/24	256
+89.108.178.0/24	 89.108.178.0/24	256
+89.108.179.0/24	 89.108.179.0/24	256
+89.108.180.0/22	 Metropolitan Hotel	1,024
+89.108.181.0/24	 89.108.181.0/24	256
+89.108.182.0/24	 89.108.182.0/24	256
+89.108.183.0/24	 89.108.183.0/24	256
+89.108.184.0/24	 89.108.184.0/23	256
+89.108.185.0/24	 89.108.184.0/23	256
+89.108.186.0/24	 89.108.186.0/24	256
+89.108.187.0/24	 89.108.187.0/24 - 89.108.188.0/23	256
+89.108.188.0/22	 89.108.187.0/24 - 89.108.188.0/23	1,024
+89.108.188.0/24	 89.108.187.0/24 - 89.108.188.0/23	256
+89.108.189.0/24	 89.108.187.0/24 - 89.108.188.0/23	256
+89.108.190.0/24	 89.108.187.0/24 - 89.108.188.0/23	256
+89.108.191.0/24	 89.108.187.0/24 - 89.108.188.0/23	256
+93.126.128.0/22	 93.126.128.0/21	1,024
+93.126.128.0/24	 93.126.128.0/21	256
+93.126.130.0/24	 93.126.128.0/21	256
+93.126.132.0/22	 93.126.128.0/21	1,024
+93.126.133.0/24	 93.126.128.0/21	256
+93.126.134.0/24	 93.126.128.0/21	256
+93.126.135.0/24	 93.126.128.0/21	256
+93.126.136.0/22	 93.126.136.0/22	1,024
+93.126.140.0/22	 93.126.143.0/24	1,024
+93.126.140.0/24	 93.126.140.0/24	256
+93.126.141.0/24	 93.126.141.0/24	256
+93.126.142.0/24	 93.126.142.0/24	256
+93.126.143.0/24	 93.126.143.0/24	256
+93.126.144.0/22	 93.126.146.0/23	1,024
+93.126.144.0/24	 93.126.144.0/24	256
+93.126.145.0/24	 93.126.145.0/24	256
+93.126.146.0/24	 93.126.146.0/23	256
+93.126.147.0/24	 93.126.146.0/23	256
+93.126.148.0/22	 93.126.148.0/22	1,024
+93.126.148.0/24	 93.126.148.0/22	256
+93.126.149.0/24	 93.126.148.0/22	256
+93.126.150.0/24	 93.126.148.0/22	256
+93.126.151.0/24	 93.126.148.0/22	256
+93.126.152.0/22	 93.126.152.0/21	1,024
+93.126.152.0/24	 93.126.152.0/21	256
+93.126.156.0/22	 93.126.152.0/21	1,024
+93.126.158.0/24	 93.126.152.0/21	256
+93.126.159.0/24	 93.126.152.0/21	256
+93.126.160.0/22	 93.126.160.0/22	1,024
+93.126.160.0/24	 93.126.160.0/22	256
+93.126.161.0/24	 93.126.160.0/22	256
+93.126.162.0/24	 93.126.160.0/22	256
+93.126.163.0/24	 93.126.160.0/22	256
+93.126.164.0/22	 93.126.164.0/22	1,024
+93.126.164.0/24	 93.126.164.0/22	256
+93.126.165.0/24	 93.126.164.0/22	256
+93.126.166.0/24	 93.126.164.0/22	256
+93.126.167.0/24	 93.126.164.0/22	256
+93.126.168.0/22	 93.126.168.0/22	1,024
+93.126.168.0/24	 93.126.168.0/22	256
+93.126.169.0/24	 93.126.168.0/22	256
+93.126.172.0/22	 93.126.172.0/22	1,024
+93.126.174.0/24	 93.126.172.0/22	256
+93.126.176.0/22	 93.126.176.0/22	1,024
+93.126.176.0/24	 93.126.176.0/22	256
+93.126.177.0/24	 93.126.176.0/22	256
+93.126.178.0/24	 93.126.176.0/22	256
+93.126.179.0/24	 93.126.176.0/22	256
+93.126.180.0/22	 93.126.180.0/23	1,024
+93.126.181.0/24	 93.126.180.0/23	256
+93.126.182.0/24	 93.126.182.0/23, 93.126.184.0/22	256
+93.126.184.0/22	 93.126.182.0/23, 93.126.184.0/22	1,024
+93.126.188.0/22	 93.126.188.0/23	1,024
+93.126.192.0/22	 93.126.192.0/22	1,024
+93.126.192.0/24	 93.126.192.0/22	256
+93.126.193.0/24	 93.126.192.0/22	256
+93.126.194.0/24	 93.126.192.0/22	256
+93.126.195.0/24	 93.126.192.0/22	256
+93.126.196.0/22	 93.126.196.0/22	1,024
+93.126.196.0/24	 93.126.196.0/22	256
+93.126.197.0/24	 93.126.196.0/22	256
+93.126.198.0/24	 93.126.196.0/22	256
+93.126.200.0/22	 93.126.200.0/22	1,024
+93.126.204.0/22	 93.126.206.0/23	1,024
+93.126.204.0/24	 93.126.204.0/24	256
+93.126.205.0/24	 93.126.205.0/24	256
+93.126.206.0/24	 93.126.206.0/23	256
+93.126.207.0/24	 93.126.206.0/23	256
+93.126.208.0/22	 93.126.208.0/22	1,024
+93.126.208.0/24	 93.126.208.0/22	256
+93.126.209.0/24	 93.126.208.0/22	256
+93.126.210.0/24	 93.126.208.0/22	256
+93.126.211.0/24	 93.126.208.0/22	256
+93.126.212.0/22	 93.126.212.0/22	1,024
+93.126.212.0/24	 93.126.212.0/22	256
+93.126.213.0/24	 93.126.212.0/22	256
+93.126.215.0/24	 93.126.212.0/22	256
+93.126.216.0/22	 93.126.216.0/21	1,024
+93.126.220.0/22	 93.126.216.0/21	1,024
+93.126.220.0/24	 93.126.216.0/21	256
+93.126.221.0/24	 93.126.216.0/21	256
+93.126.224.0/22	 93.126.226.0/22	1,024
+93.126.224.0/24	 93.126.224.0/23	256
+93.126.225.0/24	 93.126.224.0/23	256
+93.126.227.0/24	 93.126.226.0/22	256
+93.126.228.0/22	 93.126.226.0/22	1,024
+93.126.228.0/24	 93.126.226.0/22	256
+93.126.229.0/24	 93.126.226.0/22	256
+93.126.230.0/24	 93.126.230.0/23	256
+93.126.232.0/22	 93.126.232.0/22	1,024
+93.126.232.0/24	 93.126.232.0/22	256
+93.126.233.0/24	 93.126.232.0/22	256
+93.126.235.0/24	 93.126.232.0/22	256
+93.126.236.0/22	 93.126.238.0/23	1,024
+93.126.236.0/24	 93.126.236.0/24	256
+93.126.237.0/24	 93.126.237.0/24	256
+93.126.240.0/22	 93.126.240.0/22	1,024
+93.126.243.0/24	 93.126.240.0/22	256
+93.126.244.0/22	 93.126.244.0/22	1,024
+93.126.247.0/24	 93.126.244.0/22	256
+93.126.248.0/22	 93.126.248.0/22	1,024
+93.126.249.0/24	 93.126.248.0/22	256
+93.126.250.0/24	 93.126.248.0/22	256
+93.126.251.0/24	 93.126.248.0/22	256
+93.126.252.0/22	 93.126.252.0/22	1,024
+93.126.254.0/24	 93.126.252.0/22	256
+149.200.128.0/17	 Jordan Data Communications Company LLC	32,768
+149.200.128.0/22	 Assigned for ADSL customers	1,024
+149.200.132.0/22	 Assigned for ADSL customers	1,024
+149.200.137.0/24	 Assigned for ADSL customers	256
+149.200.140.0/22	 Assigned for ADSL customers	1,024
+149.200.144.0/21	 Assigned for ADSL customers	2,048
+149.200.144.0/24	 Assigned for ADSL customers	256
+149.200.145.0/24	 Assigned for ADSL customers	256
+149.200.146.0/24	 Assigned for ADSL customers	256
+149.200.147.0/24	 Assigned for ADSL customers	256
+149.200.148.0/24	 Assigned for ADSL customers	256
+149.200.149.0/24	 Assigned for ADSL customers	256
+149.200.150.0/24	 Assigned for ADSL customers	256
+149.200.151.0/24	 Assigned for ADSL customers	256
+149.200.152.0/22	 Assigned for ADSL customers	1,024
+149.200.152.0/24	 Assigned for ADSL customers	256
+149.200.153.0/24	 Assigned for ADSL customers	256
+149.200.154.0/24	 Assigned for ADSL customers	256
+149.200.155.0/24	 Assigned for ADSL customers	256
+149.200.156.0/22	 Assigned for ADSL customers	1,024
+149.200.156.0/24	 Assigned for ADSL customers	256
+149.200.157.0/24	 Assigned for ADSL customers	256
+149.200.158.0/24	 Assigned for ADSL customers	256
+149.200.159.0/24	 Assigned for ADSL customers	256
+149.200.160.0/21	 Assigned for ADSL customers	2,048
+149.200.160.0/24	 Assigned for ADSL customers	256
+149.200.161.0/24	 Assigned for ADSL customers	256
+149.200.162.0/24	 Assigned for ADSL customers	256
+149.200.163.0/24	 Assigned for ADSL customers	256
+149.200.164.0/24	 Assigned for ADSL customers	256
+149.200.165.0/24	 Assigned for ADSL customers	256
+149.200.166.0/24	 Assigned for ADSL customers	256
+149.200.167.0/24	 Assigned for ADSL customers	256
+149.200.168.0/22	 Assigned for ADSL customers	1,024
+149.200.168.0/24	 Assigned for ADSL customers	256
+149.200.169.0/24	 Assigned for ADSL customers	256
+149.200.170.0/24	 Assigned for ADSL customers	256
+149.200.171.0/24	 Assigned for ADSL customers	256
+149.200.176.0/21	 Assigned for ADSL customers	2,048
+149.200.184.0/23	 Assigned for ADSL customers	512
+149.200.186.0/23	 Assigned for ADSL customers	512
+149.200.187.0/24	 Assigned for ADSL customers	256
+149.200.188.0/24	 Assigned for ADSL customers	256
+149.200.189.0/24	 Assigned for ADSL customers	256
+149.200.190.0/24	 Assigned for ADSL customers	256
+149.200.192.0/22	 Assigned for ADSL customers	1,024
+149.200.196.0/22	 Assigned for ADSL customers	1,024
+149.200.196.0/24	 Assigned for ADSL customers	256
+149.200.197.0/24	 Assigned for ADSL customers	256
+149.200.198.0/24	 Assigned for ADSL customers	256
+149.200.199.0/24	 Assigned for ADSL customers	256
+149.200.202.0/24	 Assigned for ADSL customers	256
+149.200.203.0/24	 Assigned for ADSL customers	256
+149.200.204.0/23	 Assigned for ADSL customers	512
+149.200.204.0/24	 Assigned for ADSL customers	256
+149.200.205.0/24	 Assigned for ADSL customers	256
+149.200.207.0/24	 Assigned for ADSL customers	256
+149.200.210.0/23	 Assigned for ADSL customers	512
+149.200.210.0/24	 Assigned for ADSL customers	256
+149.200.211.0/24	 Assigned for ADSL customers	256
+149.200.212.0/22	 Assigned for ADSL customers	1,024
+149.200.212.0/24	 Assigned for ADSL customers	256
+149.200.213.0/24	 Assigned for ADSL customers	256
+149.200.214.0/24	 Assigned for ADSL customers	256
+149.200.215.0/24	 Assigned for ADSL customers	256
+149.200.216.0/22	 Assigned for ADSL customers	1,024
+149.200.220.0/22	 Assigned for ADSL customers	1,024
+149.200.220.0/24	 Assigned for ADSL customers	256
+149.200.221.0/24	 Assigned for ADSL customers	256
+149.200.222.0/24	 Assigned for ADSL customers	256
+149.200.223.0/24	 Assigned for ADSL customers	256
+149.200.224.0/22	 Assigned for ADSL customers	1,024
+149.200.228.0/22	 Assigned for ADSL customers	1,024
+149.200.229.0/24	 Assigned for ADSL customers	256
+149.200.232.0/21	 Assigned for ADSL customers	2,048
+149.200.240.0/21	 Assigned for ADSL customers	2,048
+149.200.248.0/22	 Assigned for ADSL customers	1,024
+149.200.250.0/23	 Assigned for ADSL customers	512
+149.200.250.0/24	 Assigned for ADSL customers	256
+149.200.251.0/24	 Assigned for ADSL customers	256
+185.182.136.0/22	 Hikma Pharmaceuticals LLC	1,024
+185.182.136.0/24	 Hikma Pharmaceuticals LLC	256
+185.98.220.0/22	 Jordan Data Communications Company LLC	1,024
+185.98.220.0/24	 Orange Jordan	256
+185.98.221.0/24	 Orange Jordan	256
+185.98.222.0/24	 Orange Jordan	256
+185.98.223.0/24	 Orange Jordan	256
+185.98.224.0/22	 Jordan Telecommunications Company	1,024
+185.98.224.0/24	 JTG-Orange	256
+185.98.225.0/24	 JTG-Orange	256
+185.98.226.0/24	 JTG-Orange	256
+185.98.227.0/24	 JTG-Orange	256
+193.17.53.0/24	 Bank of Jordan PLC	256
+194.165.128.0/22	 Orange - Jordan	1,024
+194.165.128.0/24	 ORANGE	256
+194.165.129.0/24	 ABB	256
+194.165.132.0/24	 Amman Ahliyyah Uni.	256
+194.165.133.0/24	 Dialup user for orange	256
+194.165.134.0/23	 Abdul Hameed Shoman Foundation	512
+194.165.134.0/24	 MOVINPICK(AQABA)	256
+194.165.135.0/24	 Consolidated Contractors Company Ltd. Jordan	256
+194.165.136.0/24	 Amman - Jordan	256
+194.165.137.0/24	 Orange - Jordan	256
+194.165.138.0/24	 Orange - Jordan	256
+194.165.140.0/24	 Jordan Customs	256
+194.165.141.0/24	 JORDAN GLOBAL FOR FOOD DISTRIBUTION	256
+194.165.142.0/24	 United Nations Office For Project Services	256
+194.165.143.0/24	 Civil Defanse	256
+194.165.144.0/22	 Jordan Data Communications Company LLC	1,024
+194.165.144.0/24	 Nuqul Group	256
+194.165.145.0/24	 Jordan Business System	256
+194.165.146.0/24	 AMMANSTOCKEXCHANGE	256
+194.165.147.0/24	 Greater Amman Municipality	256
+194.165.148.0/22	 Jordan Data Communications Company LLC	1,024
+194.165.148.0/24	 American Express	256
+194.165.149.0/24	 LL CUSTOMER FOR ORANGE	256
+194.165.150.0/24	 praise water	256
+194.165.151.0/24	 Primary Health Care Initiatives (PHCI)	256
+194.165.152.0/22	 Arab Bank Plc	1,024
+194.165.152.0/24	 Securities Depositary Center	256
+194.165.153.0/24	 LL CUSTOMER FOR ORANGE	256
+194.165.154.0/24	 Arab Bank Plc	256
+194.165.155.0/24	 Zara Investment Co.	256
+194.165.156.0/23	 Orange - Jordan	512
+194.165.156.0/24	 Orange - Jordan	256
+194.165.157.0/24	 ATV	256
+194.165.158.0/24	 Static ADSL	256
+194.165.159.0/24	 Madaba univercity	256
+196.27.0.0/23	 Sprint jordan	512
+196.27.1.0/24	 Sprint jordan	256
+212.34.15.0/24	 JTC	256
+212.34.17.0/24	 DialUP Pool	256
+212.34.4.0/24	 Dialup Pool	256
+212.34.7.0/24	 DialUP pool	256
+212.34.8.0/23	 DialUP pool	512
+213.139.48.0/24	 QRC-MOE	256
+213.139.54.0/24	 Jordan Telecommunications Company	256
+213.139.57.0/24	 Jordan Telecommunications Company	256
+213.139.58.0/24	 Jordan Telecommunications Company	256
+213.186.160.0/19	 Jordan Data Communications Company LLC	8,192
+213.186.160.0/22	 Jordan Data Communications Company LLC	1,024
+213.186.160.0/24	 Falcons Resources Business Compnay	256
+213.186.161.0/24	 Jordan Hotels and Tourisem Co.	256
+213.186.162.0/24	 Aramex	256
+213.186.163.0/24	 APL Office Amman	256
+213.186.164.0/22	 Jordan Media City(ART)	1,024
+213.186.164.0/24	 Amman Baccalaureate School	256
+213.186.166.0/24	 Jordan Media City(ART)	256
+213.186.167.0/24	 ROYAL JORDAN AIR FORCE	256
+213.186.168.0/22	 Jordan Data Communications Company LLC	1,024
+213.186.168.0/24	 ASEZA - Aqaba-Wadi Al Youtom	256
+213.186.169.0/24	 UNAMI	256
+213.186.170.0/24	 for L.L customer Soubar	256
+213.186.171.0/24	 MagiNet – Marriott Petra	256
+213.186.175.0/24	 Assigned to LNS3 (parental golbal level)	256
+213.186.176.0/24	 Assigned to LNS3 (safe surf- golbal level)	256
+213.186.178.0/24	 Orange ADSL range (parental user level)	256
+213.186.182.0/24	 Assigned to (parental- user level)	256
+213.186.184.0/24	 Orange ADSL range(parental user service)	256
+213.186.188.0/24	 Orange ADSL range (parental user level)	256
+217.23.32.0/20	 Jordan Data Communications Company LLC	4,096
+217.23.32.0/24	 local network	256
+217.23.36.0/24	 ORANGE-JORDAN	256
+217.23.37.0/24	 Sameh Mall	256
+217.23.38.0/23	 ORANGE-JORDAN	512
+217.23.38.0/24	 for BitStream user	256
+217.23.39.0/24	 ORANGE-JORDAN	256
+217.23.44.0/22	 ORANGE-JORDAN	1,024
+217.23.44.0/24	 ORANGE-JORDAN	256
+217.23.45.0/24	 ORANGE-JORDAN	256
+217.23.46.0/24	 ORANGE-JORDAN	256
+217.23.47.0/24	 ORANGE-JORDAN	256
+37.202.100.0/22	 Assigned for ADSL customers	1,024
+37.202.104.0/22	 Assigned for ADSL customers	1,024
+37.202.108.0/22	 Assigned for ADSL customers	1,024
+37.202.112.0/22	 Assigned for ADSL customers	1,024
+37.202.116.0/22	 Assigned for ADSL customers	1,024
+37.202.120.0/22	 Assigned for ADSL customers	1,024
+37.202.124.0/22	 Assigned for ADSL customers	1,024
+37.202.64.0/19	 Assigned for ADSL customers	8,192
+37.202.64.0/22	 Assigned for ADSL customers	1,024
+37.202.64.0/24	 Assigned for ADSL customers	256
+37.202.65.0/24	 Assigned for ADSL customers	256
+37.202.66.0/24	 Assigned for ADSL customers	256
+37.202.67.0/24	 Assigned for ADSL customers	256
+37.202.68.0/22	 Assigned for ADSL customers	1,024
+37.202.68.0/24	 Assigned for ADSL customers	256
+37.202.69.0/24	 Assigned for ADSL customers	256
+37.202.70.0/24	 Assigned for ADSL customers	256
+37.202.71.0/24	 Assigned for ADSL customers	256
+37.202.72.0/22	 Assigned for ADSL customers	1,024
+37.202.72.0/24	 Assigned for ADSL customers	256
+37.202.73.0/24	 Assigned for ADSL customers	256
+37.202.74.0/24	 Assigned for ADSL customers	256
+37.202.75.0/24	 Assigned for ADSL customers	256
+37.202.76.0/22	 Assigned for ADSL customers	1,024
+37.202.80.0/22	 Assigned for ADSL customers	1,024
+37.202.83.0/24	 Assigned for ADSL customers	256
+37.202.84.0/22	 Assigned for ADSL customers	1,024
+37.202.84.0/24	 Assigned for ADSL customers	256
+37.202.85.0/24	 Assigned for ADSL customers	256
+37.202.86.0/24	 Assigned for ADSL customers	256
+37.202.87.0/24	 Assigned for ADSL customers	256
+37.202.88.0/22	 Assigned for ADSL customers	1,024
+37.202.88.0/24	 Assigned for ADSL customers	256
+37.202.92.0/22	 Assigned for ADSL customers	1,024
+37.202.96.0/19	 Assigned for ADSL customers	8,192
+37.202.96.0/22	 Assigned for ADSL customers	1,024
+46.185.128.0/17	 Jordan Data Communications Company LLC	32,768
+46.185.132.0/22	 ADSL customers for Orange	1,024
+46.185.132.0/24	 ADSL customers for Orange	256
+46.185.133.0/24	 ADSL customers for Orange	256
+46.185.134.0/24	 ADSL customers for Orange	256
+46.185.135.0/24	 ADSL customers for Orange	256
+46.185.136.0/23	 ADSL customers for Orange	512
+46.185.140.0/22	 ADSL customers for Orange	1,024
+46.185.144.0/22	 ADSL customers for Orange	1,024
+46.185.148.0/22	 ADSL customers for Orange	1,024
+46.185.148.0/24	 ADSL customers for Orange	256
+46.185.149.0/24	 ADSL customers for Orange	256
+46.185.150.0/24	 ADSL customers for Orange	256
+46.185.151.0/24	 ADSL customers for Orange	256
+46.185.158.0/24	 ADSL customers for Orange	256
+46.185.159.0/24	 ADSL customers for Orange	256
+46.185.161.0/24	 ADSL customers for Orange	256
+46.185.163.0/24	 ADSL customers for Orange	256
+46.185.164.0/22	 ADSL customers for Orange	1,024
+46.185.164.0/24	 ADSL customers for Orange	256
+46.185.165.0/24	 ADSL customers for Orange	256
+46.185.166.0/24	 ADSL customers for Orange	256
+46.185.167.0/24	 ADSL customers for Orange	256
+46.185.168.0/23	 ADSL customers for Orange	512
+46.185.168.0/24	 ADSL customers for Orange	256
+46.185.169.0/24	 ADSL customers for Orange	256
+46.185.170.0/23	 ADSL customers for Orange	512
+46.185.170.0/24	 ADSL customers for Orange	256
+46.185.171.0/24	 ADSL customers for Orange	256
+46.185.172.0/22	 ADSL customers for Orange	1,024
+46.185.172.0/24	 ADSL customers for Orange	256
+46.185.173.0/24	 ADSL customers for Orange	256
+46.185.174.0/24	 ADSL customers for Orange	256
+46.185.175.0/24	 ADSL customers for Orange	256
+46.185.176.0/22	 ADSL customers for Orange	1,024
+46.185.176.0/24	 ADSL customers for Orange	256
+46.185.177.0/24	 ADSL customers for Orange	256
+46.185.178.0/24	 ADSL customers for Orange	256
+46.185.179.0/24	 ADSL customers for Orange	256
+46.185.184.0/22	 ADSL customers for Orange	1,024
+46.185.184.0/24	 ADSL customers for Orange	256
+46.185.185.0/24	 ADSL customers for Orange	256
+46.185.186.0/24	 ADSL customers for Orange	256
+46.185.187.0/24	 ADSL customers for Orange	256
+46.185.192.0/22	 ADSL customers for Orange	1,024
+46.185.192.0/24	 ADSL customers for Orange	256
+46.185.193.0/24	 ADSL customers for Orange	256
+46.185.194.0/24	 ADSL customers for Orange	256
+46.185.195.0/24	 ADSL customers for Orange	256
+46.185.196.0/22	 ADSL customers for Orange	1,024
+46.185.196.0/24	 ADSL customers for Orange	256
+46.185.197.0/24	 ADSL customers for Orange	256
+46.185.198.0/24	 ADSL customers for Orange	256
+46.185.199.0/24	 ADSL customers for Orange	256
+46.185.200.0/21	 ADSL customers for Orange	2,048
+46.185.209.0/24	 ADSL customers for Orange	256
+46.185.210.0/23	 ADSL customers for Orange	512
+46.185.212.0/22	 ADSL customers for Orange	1,024
+46.185.217.0/24	 ADSL customers for Orange	256
+46.185.218.0/23	 ADSL customers for Orange	512
+46.185.218.0/24	 ADSL customers for Orange	256
+46.185.219.0/24	 ADSL customers for Orange	256
+46.185.220.0/23	 ADSL customers for Orange	512
+46.185.224.0/22	 ADSL customers for Orange	1,024
+46.185.224.0/24	 ADSL customers for Orange	256
+46.185.225.0/24	 ADSL customers for Orange	256
+46.185.226.0/24	 ADSL customers for Orange	256
+46.185.227.0/24	 ADSL customers for Orange	256
+46.185.228.0/22	 ADSL customers for Orange	1,024
+46.185.228.0/24	 ADSL customers for Orange	256
+46.185.229.0/24	 ADSL customers for Orange	256
+46.185.230.0/24	 ADSL customers for Orange	256
+46.185.231.0/24	 ADSL customers for Orange	256
+46.185.236.0/22	 ADSL customers for Orange	1,024
+46.185.240.0/22	 ADSL customers for Orange	1,024
+46.185.244.0/22	 ADSL customers for Orange	1,024
+46.185.246.0/24	 ADSL customers for Orange	256
+46.185.247.0/24	 ADSL customers for Orange	256
+46.185.248.0/22	 ADSL customers for Orange	1,024
+46.185.248.0/24	 ADSL customers for Orange	256
+46.185.249.0/24	 ADSL customers for Orange	256
+46.185.250.0/24	 ADSL customers for Orange	256
+46.185.251.0/24	 ADSL customers for Orange	256
+46.185.252.0/22	 ADSL customers for Orange	1,024
+46.185.252.0/24	 ADSL customers for Orange	256
+46.185.253.0/24	 ADSL customers for Orange	256
+46.185.254.0/24	 ADSL customers for Orange	256
+46.185.255.0/24	 ADSL customers for Orange	256
+79.173.192.0/18	 Jordan Data Communications Company LLC	16,384
+79.173.192.0/21	 Assigned for ADSL customers	2,048
+79.173.192.0/24	 Assigned for ADSL customers	256
+79.173.193.0/24	 Assigned for ADSL customers	256
+79.173.194.0/24	 Assigned for ADSL customers	256
+79.173.195.0/24	 Assigned for ADSL customers	256
+79.173.196.0/24	 Assigned for ADSL customers	256
+79.173.197.0/24	 Assigned for ADSL customers	256
+79.173.198.0/24	 Assigned for ADSL customers	256
+79.173.199.0/24	 Assigned for ADSL customers	256
+79.173.200.0/21	 Assigned for ADSL customers	2,048
+79.173.200.0/24	 Assigned for ADSL customers	256
+79.173.201.0/24	 Assigned for ADSL customers	256
+79.173.202.0/24	 Assigned for ADSL customers	256
+79.173.203.0/24	 Assigned for ADSL customers	256
+79.173.204.0/24	 Assigned for ADSL customers	256
+79.173.205.0/24	 Assigned for ADSL customers	256
+79.173.206.0/24	 Assigned for ADSL customers	256
+79.173.207.0/24	 Assigned for ADSL customers	256
+79.173.208.0/22	 Assigned for ADSL customers	1,024
+79.173.208.0/24	 Assigned for ADSL customers	256
+79.173.209.0/24	 Assigned for ADSL customers	256
+79.173.210.0/24	 Assigned for ADSL customers	256
+79.173.211.0/24	 Assigned for ADSL customers	256
+79.173.212.0/22	 Assigned for ADSL customers	1,024
+79.173.212.0/24	 Assigned for ADSL customers	256
+79.173.214.0/24	 Assigned for ADSL customers	256
+79.173.215.0/24	 Assigned for ADSL customers	256
+79.173.220.0/22	 Assigned for ADSL customers	1,024
+79.173.224.0/22	 Assigned for ADSL customers	1,024
+79.173.224.0/24	 Assigned for ADSL customers	256
+79.173.225.0/24	 Assigned for ADSL customers	256
+79.173.226.0/24	 Assigned for ADSL customers	256
+79.173.227.0/24	 Assigned for ADSL customers	256
+79.173.228.0/22	 Assigned for ADSL customers	1,024
+79.173.232.0/21	 Assigned for ADSL customers	2,048
+79.173.240.0/22	 Assigned for ADSL customers	1,024
+79.173.244.0/22	 Assigned for ADSL customers	1,024
+79.173.253.0/24	 Assigned for ADSL customers	256
+79.173.254.0/23	 Assigned for ADSL customers	512
+79.173.254.0/24	 Assigned for ADSL customers	256
+79.173.255.0/24	 Assigned for ADSL customers	256
+80.10.16.0/20	 Orange Jordan	4,096
+80.10.16.0/22	 Orange Jordan	1,024
+80.10.20.0/22	 Orange Jordan	1,024
+80.10.24.0/22	 Orange Jordan	1,024
+80.10.28.0/22	 Orange Jordan	1,024
+80.10.32.0/24	 Orange Jordan	256
+80.10.48.0/20	 Orange Jordan	4,096
+80.10.48.0/23	 Orange Jordan	512
+80.10.48.0/24	 Orange Jordan	256
+80.10.49.0/24	 Orange Jordan	256
+80.10.50.0/23	 Orange Jordan	512
+80.10.50.0/24	 Orange Jordan	256
+80.10.51.0/24	 Orange Jordan	256
+80.10.52.0/23	 Orange Jordan	512
+80.10.52.0/24	 Orange Jordan	256
+80.10.53.0/24	 Orange Jordan	256
+80.10.54.0/24	 Orange Jordan	256
+80.10.55.0/24	 Orange Jordan	256
+80.10.56.0/24	 Orange Jordan	256
+80.10.57.0/24	 Orange Jordan	256
+80.10.59.0/24	 Orange Jordan	256
+80.10.61.0/24	 Orange Jordan	256
+80.10.64.0/20	 Orange Jordan	4,096
+80.10.64.0/21	 Orange Jordan	2,048
+80.10.64.0/24	 Orange Jordan	256
+80.10.65.0/24	 Orange Jordan	256
+80.10.66.0/24	 Orange Jordan	256
+80.10.67.0/24	 Orange Jordan	256
+80.10.68.0/24	 Orange Jordan	256
+80.10.69.0/24	 Orange Jordan	256
+80.10.70.0/24	 Orange Jordan	256
+80.10.71.0/24	 Orange Jordan	256
+80.10.72.0/22	 Orange Jordan	1,024
+80.10.76.0/23	 Orange Jordan	512
+80.10.8.0/21	 Orange Jordan	2,048
+86.108.0.0/17	 Jordan Data Communications Company LLC	32,768
+86.108.0.0/21	 ORANGE-JORDAN	2,048
+86.108.10.0/24	 Assigned for ADSL (parental global service)	256
+86.108.104.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.104.0/24	 Jordan Data Communication Ltd.	256
+86.108.105.0/24	 Jordan Data Communication Ltd.	256
+86.108.106.0/24	 Jordan Data Communication Ltd.	256
+86.108.107.0/24	 Jordan Data Communication Ltd.	256
+86.108.112.0/21	 Jordan Data Communication Ltd.	2,048
+86.108.112.0/24	 Jordan Data Communication Ltd.	256
+86.108.113.0/24	 Jordan Data Communication Ltd.	256
+86.108.114.0/24	 Jordan Data Communication Ltd.	256
+86.108.115.0/24	 Jordan Data Communication Ltd.	256
+86.108.120.0/21	 Jordan Data Communication Ltd.	2,048
+86.108.120.0/24	 Jordan Data Communication Ltd.	256
+86.108.121.0/24	 Jordan Data Communication Ltd.	256
+86.108.122.0/24	 Jordan Data Communication Ltd.	256
+86.108.123.0/24	 Jordan Data Communication Ltd.	256
+86.108.124.0/24	 Jordan Data Communication Ltd.	256
+86.108.125.0/24	 Jordan Data Communication Ltd.	256
+86.108.126.0/24	 Jordan Data Communication Ltd.	256
+86.108.127.0/24	 Jordan Data Communication Ltd.	256
+86.108.16.0/21	 assigned for homeuserfilter customers	2,048
+86.108.16.0/24	 Assigned for Security team ADSL test	256
+86.108.17.0/24	 Jordan Data Communications Company LLC	256
+86.108.18.0/24	 Jordan Data Communications Company LLC	256
+86.108.19.0/24	 assigned for homeglobalfilter customers	256
+86.108.20.0/24	 assigned for homeglobalfilter customers	256
+86.108.21.0/24	 assigned for homeglobalfilter customers	256
+86.108.22.0/24	 assigned for homeuserfilter customers	256
+86.108.23.0/24	 assigned for homeuserfilter customers	256
+86.108.24.0/22	 assigned for busglobalfilter customers	1,024
+86.108.24.0/24	 assigned for busglobalfilter customers	256
+86.108.25.0/24	 ORANGE-JORDAN	256
+86.108.26.0/24	 Jordan Data Communication Ltd.	256
+86.108.27.0/24	 Jordan Data Communication Ltd.	256
+86.108.28.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.32.0/23	 Jordan Data Communication Ltd.	512
+86.108.32.0/24	 Jordan Data Communication Ltd.	256
+86.108.33.0/24	 Jordan Data Communication Ltd.	256
+86.108.34.0/23	 Jordan Data Communication Ltd.	512
+86.108.34.0/24	 Jordan Data Communication Ltd.	256
+86.108.35.0/24	 Jordan Data Communication Ltd.	256
+86.108.40.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.40.0/24	 Jordan Data Communication Ltd.	256
+86.108.41.0/24	 Jordan Data Communication Ltd.	256
+86.108.42.0/24	 Jordan Data Communication Ltd.	256
+86.108.43.0/24	 Jordan Data Communication Ltd.	256
+86.108.44.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.44.0/24	 Jordan Data Communication Ltd.	256
+86.108.45.0/24	 Jordan Data Communication Ltd.	256
+86.108.46.0/24	 Jordan Data Communication Ltd.	256
+86.108.47.0/24	 Jordan Data Communication Ltd.	256
+86.108.48.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.52.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.52.0/24	 Jordan Data Communication Ltd.	256
+86.108.53.0/24	 Jordan Data Communication Ltd.	256
+86.108.54.0/24	 Jordan Data Communication Ltd.	256
+86.108.55.0/24	 Jordan Data Communication Ltd.	256
+86.108.56.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.56.0/24	 Jordan Data Communication Ltd.	256
+86.108.57.0/24	 Jordan Data Communication Ltd.	256
+86.108.58.0/24	 ADSL Customers for Orange	256
+86.108.59.0/24	 Jordan Data Communication Ltd.	256
+86.108.60.0/22	 Jordan Data Communication Ltd.	1,024
+86.108.64.0/20	 Jordan Data Communications Company LLC	4,096
+86.108.64.0/24	 Jordan Data Communication Ltd.	256
+86.108.65.0/24	 Jordan Data Communication Ltd.	256
+86.108.66.0/24	 Jordan Data Communication Ltd.	256
+86.108.67.0/24	 Jordan Data Communication Ltd.	256
+86.108.80.0/24	 Jordan Data Communication Ltd.	256
+86.108.81.0/24	 Jordan Data Communication Ltd.	256
+86.108.82.0/24	 Jordan Data Communication Ltd.	256
+86.108.83.0/24	 Jordan Data Communication Ltd.	256
+86.108.84.0/24	 Jordan Data Communication Ltd.	256
+86.108.85.0/24	 Jordan Data Communication Ltd.	256
+86.108.86.0/24	 Jordan Data Communication Ltd.	256
+86.108.87.0/24	 Jordan Data Communication Ltd.	256
+86.108.9.0/24	 Assigned for ADSL (parental global service)	256
+86.108.96.0/21	 Jordan Data Communication Ltd.	2,048
+92.253.0.0/17	 Jordan Data Communications Company LLC	32,768
+92.253.0.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.104.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.104.0/24	 Jordan Telecom Group (Orange)	256
+92.253.105.0/24	 Jordan Telecom Group (Orange)	256
+92.253.106.0/24	 Jordan Telecom Group (Orange)	256
+92.253.107.0/24	 Jordan Telecom Group (Orange)	256
+92.253.108.0/24	 Jordan Telecom Group (Orange)	256
+92.253.109.0/24	 Jordan Telecom Group (Orange)	256
+92.253.110.0/24	 Jordan Telecom Group (Orange)	256
+92.253.113.0/24	 Jordan Telecom Group (Orange)	256
+92.253.115.0/24	 Jordan Telecom Group (Orange)	256
+92.253.116.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.124.0/23	 Alhussien for cancer	512
+92.253.124.0/24	 Irbid university	256
+92.253.125.0/24	 JORDAN AVIATION	256
+92.253.16.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.21.0/24	 Jordan Telecom Group (Orange)	256
+92.253.23.0/24	 Jordan Telecom Group (Orange)	256
+92.253.24.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.28.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.32.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.40.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.40.0/24	 Jordan Telecom Group (Orange)	256
+92.253.41.0/24	 Jordan Telecom Group (Orange)	256
+92.253.42.0/24	 Jordan Telecom Group (Orange)	256
+92.253.43.0/24	 Jordan Telecom Group (Orange)	256
+92.253.48.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.48.0/24	 Jordan Telecom Group (Orange)	256
+92.253.49.0/24	 Jordan Telecom Group (Orange)	256
+92.253.50.0/24	 Jordan Telecom Group (Orange)	256
+92.253.51.0/24	 Jordan Telecom Group (Orange)	256
+92.253.52.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.52.0/24	 Jordan Telecom Group (Orange)	256
+92.253.53.0/24	 Jordan Telecom Group (Orange)	256
+92.253.54.0/24	 Jordan Telecom Group (Orange)	256
+92.253.55.0/24	 Jordan Telecom Group (Orange)	256
+92.253.56.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.56.0/24	 Jordan Telecom Group (Orange)	256
+92.253.57.0/24	 Jordan Telecom Group (Orange)	256
+92.253.58.0/24	 Jordan Telecom Group (Orange)	256
+92.253.59.0/24	 Jordan Telecom Group (Orange)	256
+92.253.60.0/24	 Jordan Telecom Group (Orange)	256
+92.253.61.0/24	 Jordan Telecom Group (Orange)	256
+92.253.62.0/24	 Jordan Telecom Group (Orange)	256
+92.253.63.0/24	 Jordan Telecom Group (Orange)	256
+92.253.72.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.72.0/24	 Jordan Telecom Group (Orange)	256
+92.253.73.0/24	 Jordan Telecom Group (Orange)	256
+92.253.74.0/24	 Jordan Telecom Group (Orange)	256
+92.253.75.0/24	 Jordan Telecom Group (Orange)	256
+92.253.76.0/24	 Jordan Telecom Group (Orange)	256
+92.253.77.0/24	 Jordan Telecom Group (Orange)	256
+92.253.78.0/24	 Jordan Telecom Group (Orange)	256
+92.253.79.0/24	 Jordan Telecom Group (Orange)	256
+92.253.80.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.80.0/24	 Jordan Telecom Group (Orange)	256
+92.253.8.0/21	 Jordan Telecom Group (Orange)	2,048
+92.253.81.0/24	 Jordan Telecom Group (Orange)	256
+92.253.82.0/24	 Jordan Telecom Group (Orange)	256
+92.253.83.0/24	 Jordan Telecom Group (Orange)	256
+92.253.84.0/24	 Jordan Telecom Group (Orange)	256
+92.253.85.0/24	 Jordan Telecom Group (Orange)	256
+92.253.86.0/24	 Jordan Telecom Group (Orange)	256
+92.253.87.0/24	 Jordan Telecom Group (Orange)	256
+92.253.88.0/22	 Jordan Telecom Group (Orange)	1,024
+92.253.88.0/24	 Jordan Telecom Group (Orange)	256
+92.253.89.0/24	 Jordan Telecom Group (Orange)	256
+92.253.90.0/24	 Jordan Telecom Group (Orange)	256
+92.253.91.0/24	 Jordan Telecom Group (Orange)	256
+92.253.92.0/24	 Jordan Telecom Group (Orange)	256
+92.253.98.0/24	 Jordan Telecom Group (Orange)	256
+92.253.99.0/24	 Jordan Telecom Group (Orange)	256
+94.249.0.0/17	 Jordan Data Communications Company LLC	32,768
+94.249.0.0/21	 Jordan Telecom Group (Orange)	2,048
+94.249.104.0/21	 Jordan Telecom Group (Orange)	2,048
+94.249.112.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.116.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.120.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.125.0/24	 Jordan Telecom Group (Orange)	256
+94.249.126.0/24	 Jordan Telecom Group (Orange)	256
+94.249.16.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.20.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.24.0/21	 Jordan Telecom Group (Orange)	2,048
+94.249.32.0/21	 Jordan Telecom Group (Orange)	2,048
+94.249.32.0/24	 Jordan Telecom Group (Orange)	256
+94.249.40.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.42.0/24	 Jordan Telecom Group (Orange)	256
+94.249.44.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.48.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.52.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.52.0/24	 Jordan Telecom Group (Orange)	256
+94.249.53.0/24	 Jordan Telecom Group (Orange)	256
+94.249.54.0/24	 Jordan Telecom Group (Orange)	256
+94.249.55.0/24	 Jordan Telecom Group (Orange)	256
+94.249.58.0/24	 Jordan Telecom Group (Orange)	256
+94.249.62.0/24	 Jordan Telecom Group (Orange)	256
+94.249.64.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.68.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.72.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.76.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.80.0/23	 Jordan Telecom Group (Orange)	512
+94.249.80.0/24	 Jordan Telecom Group (Orange)	256
+94.249.8.0/21	 Jordan Telecom Group (Orange)	2,048
+94.249.81.0/24	 Jordan Telecom Group (Orange)	256
+94.249.84.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.88.0/22	 Jordan Telecom Group (Orange)	1,024
+94.249.92.0/22	 Jordan Telecom Group (Orange)	1,024
+138.0.156.0/22	 G2KHosting S.A.	1,024
+138.121.240.0/23	 TALAHENEN S.R.L	512
+138.121.242.0/24	 TALAHENEN S.R.L	256
+170.155.220.0/24	 Gobernacion de la Provincia de Buenos Aires	256
+181.0.0.0/19	 Telecom Personal Bs As	8,192
+181.0.192.0/19	 Telecom Personal Bs As	8,192
+181.0.224.0/19	 Telecom Personal Bs As	8,192
+181.0.32.0/19	 Telecom Personal Bs As	8,192
+181.0.96.0/19	 Telecom Personal Bs As	8,192
+181.100.0.0/20	 Telecom Personal Bs As	4,096
+181.100.112.0/20	 Telecom Personal Bs As	4,096
+181.100.128.0/20	 Telecom Personal Bs As	4,096
+181.100.144.0/20	 Telecom Personal Bs As	4,096
+181.100.160.0/20	 Telecom Personal Bs As	4,096
+181.100.16.0/20	 Telecom Personal Bs As	4,096
+181.100.176.0/20	 Telecom Personal Bs As	4,096
+181.1.0.0/19	 Apolo -Gold-Telecom-Per	8,192
+181.100.192.0/20	 Telecom Personal Bs As	4,096
+181.100.208.0/20	 Telecom Personal Bs As	4,096
+181.100.224.0/20	 Telecom Personal Bs As	4,096
+181.100.240.0/20	 Telecom Personal Bs As	4,096
+181.100.32.0/20	 Telecom Personal Bs As	4,096
+181.100.48.0/20	 Telecom Personal Bs As	4,096
+181.100.64.0/20	 Telecom Personal Bs As	4,096
+181.100.80.0/20	 Telecom Personal Bs As	4,096
+181.100.96.0/20	 Telecom Personal Bs As	4,096
+181.101.0.0/20	 Telecom Personal Bs As	4,096
+181.10.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.101.112.0/20	 Telecom Personal Bs As	4,096
+181.10.112.0/20	 Cooperativa Eléctrica de Las Perdices Ltda.	4,096
+181.101.128.0/20	 Telecom Personal Bs As	4,096
+181.101.144.0/20	 Telecom Personal Bs As	4,096
+181.101.160.0/20	 Telecom Personal Bs As	4,096
+181.101.16.0/20	 Telecom Personal Bs As	4,096
+181.101.176.0/20	 Telecom Personal Bs As	4,096
+181.101.192.0/20	 Telecom Personal Bs As	4,096
+181.101.208.0/20	 Telecom Personal Bs As	4,096
+181.101.224.0/20	 Telecom Personal Bs As	4,096
+181.101.240.0/20	 Telecom Personal Bs As	4,096
+181.10.128.0/20	 Pogliotti & Pogliotti Construcciones S.A.	4,096
+181.101.32.0/20	 Telecom Personal Bs As	4,096
+181.10.144.0/20	 CHIARAVIGLIO RAUL FABIO	4,096
+181.101.48.0/20	 Telecom Personal Bs As	4,096
+181.10.160.0/20	 TELECOM ARG EVENTO MADERO	4,096
+181.10.16.0/20	 Cooperativa de Servicios de Salsipuedes	4,096
+181.101.64.0/20	 Telecom Personal Bs As	4,096
+181.10.176.0/21	 UNIVERSIDAD NACIONAL DE CUYO	2,048
+181.101.80.0/20	 Telecom Personal Bs As	4,096
+181.10.192.0/20	 Gonzalez Jorge T.	4,096
+181.10.192.0/21	 Gonzalez Jorge T.	2,048
+181.101.96.0/20	 Telecom Personal Bs As	4,096
+181.10.200.0/21	 CERTISUR S.A.	2,048
+181.102.0.0/20	 Telecom Personal Bs As	4,096
+181.10.208.0/20	 Telecom Personal	4,096
+181.10.208.0/21	 Telecom Personal	2,048
+181.102.112.0/20	 Telecom Personal Bs As	4,096
+181.102.128.0/20	 Telecom Personal Bs As	4,096
+181.102.144.0/20	 Telecom Personal Bs As	4,096
+181.102.160.0/20	 Telecom Personal Bs As	4,096
+181.102.16.0/20	 Telecom Personal Bs As	4,096
+181.10.216.0/21	 Telecom Personal	2,048
+181.102.176.0/20	 Telecom Personal Bs As	4,096
+181.102.192.0/20	 Telecom Personal Bs As	4,096
+181.102.208.0/20	 Telecom Personal Bs As	4,096
+181.102.224.0/20	 Telecom Personal Bs As	4,096
+181.102.240.0/20	 Telecom Personal Bs As	4,096
+181.10.224.0/20	 Telecom Personal	4,096
+181.10.224.0/21	 TELECOMUNICACIONES SOCIEDAD ANONIMA	2,048
+181.102.32.0/20	 Telecom Personal Bs As	4,096
+181.10.232.0/21	 CABLE TELEVISORA COLOR S A	2,048
+181.10.240.0/20	 MINISTERIO DE MODERNIZACION DE LA NACION	4,096
+181.10.240.0/21	 ARE SOC. DE HECHO DE YOVA N GERMAN Y JURE NATALIA	2,048
+181.102.48.0/20	 Telecom Personal Bs As	4,096
+181.10.248.0/21	 MINISTERIO DE MODERNIZACION DE LA NACION	2,048
+181.10.26.0/24	 MAGDALENA VIRTUAL S.A.	256
+181.102.64.0/20	 Telecom Personal Bs As	4,096
+181.102.80.0/20	 Telecom Personal Bs As	4,096
+181.102.96.0/20	 Telecom Personal Bs As	4,096
+181.10.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.10.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.10.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.10.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.10.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.160.0/20	 Telecom Argentina S.A.	4,096
+181.105.16.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.176.0/20	 Telecom Argentina S.A.	4,096
+181.105.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.10.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.105.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.105.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.106.192.0/20	 Telecom Personal Bs As	4,096
+181.106.208.0/20	 Telecom Personal Bs As	4,096
+181.106.224.0/20	 Telecom Personal Bs As	4,096
+181.106.240.0/20	 Telecom Personal Bs As	4,096
+181.10.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.10.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.107.0.0/20	 Telecom Personal Bs As	4,096
+181.107.112.0/20	 Telecom Personal Bs As	4,096
+181.107.128.0/20	 Telecom Personal Bs As	4,096
+181.107.144.0/20	 Telecom Personal Bs As	4,096
+181.107.160.0/20	 Telecom Personal Bs As	4,096
+181.107.16.0/20	 Telecom Personal Bs As	4,096
+181.107.176.0/20	 Telecom Personal Bs As	4,096
+181.107.192.0/20	 Telecom Personal Bs As	4,096
+181.10.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.107.208.0/20	 Telecom Personal Bs As	4,096
+181.107.224.0/20	 Telecom Personal Bs As	4,096
+181.107.240.0/20	 Telecom Personal Bs As	4,096
+181.107.32.0/20	 Telecom Personal Bs As	4,096
+181.107.48.0/20	 Telecom Personal Bs As	4,096
+181.107.64.0/20	 Telecom Personal Bs As	4,096
+181.107.80.0/20	 Telecom Personal Bs As	4,096
+181.107.96.0/20	 Telecom Personal Bs As	4,096
+181.10.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.108.0.0/20	 Telecom Personal Bs As	4,096
+181.10.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.108.112.0/20	 Telecom Personal Bs As	4,096
+181.108.128.0/20	 Telecom Personal Bs As	4,096
+181.108.144.0/20	 Telecom Personal Bs As	4,096
+181.108.160.0/20	 Telecom Personal Bs As	4,096
+181.108.16.0/20	 Telecom Personal Bs As	4,096
+181.108.176.0/20	 Telecom Personal Bs As	4,096
+181.108.192.0/20	 Telecom Personal Bs As	4,096
+181.108.208.0/20	 Telecom Personal Bs As	4,096
+181.108.224.0/20	 Telecom Personal Bs As	4,096
+181.108.240.0/20	 Telecom Personal Bs As	4,096
+181.108.32.0/20	 Telecom Personal Bs As	4,096
+181.108.48.0/20	 Telecom Personal Bs As	4,096
+181.108.64.0/20	 Telecom Personal Bs As	4,096
+181.108.80.0/20	 Telecom Personal Bs As	4,096
+181.10.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.108.96.0/20	 Telecom Personal Bs As	4,096
+181.109.0.0/20	 Telecom Personal Bs As	4,096
+181.109.112.0/20	 Telecom Personal Bs As	4,096
+181.109.128.0/20	 Telecom Personal Bs As	4,096
+181.109.144.0/20	 Telecom Personal Bs As	4,096
+181.109.160.0/20	 Telecom Personal Bs As	4,096
+181.109.16.0/20	 Telecom Personal Bs As	4,096
+181.109.176.0/20	 Telecom Personal Bs As	4,096
+181.109.192.0/20	 Telecom Personal Bs As	4,096
+181.109.208.0/20	 Telecom Personal Bs As	4,096
+181.109.224.0/20	 Telecom Personal Bs As	4,096
+181.109.240.0/20	 Telecom Personal Bs As	4,096
+181.109.32.0/20	 Telecom Personal Bs As	4,096
+181.109.48.0/20	 Telecom Personal Bs As	4,096
+181.10.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.10.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.109.64.0/20	 Telecom Personal Bs As	4,096
+181.109.80.0/20	 Telecom Personal Bs As	4,096
+181.109.96.0/20	 Telecom Personal Bs As	4,096
+181.110.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.11.0.0/18	 Telecom Personal Bs As	16,384
+181.110.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.168.0/21	 wifi offloading	2,048
+181.110.176.0/21	 wifi offloading	2,048
+181.110.184.0/21	 wifi offloading	2,048
+181.110.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.232.0/21	 GUEMES TELEVISION S.A.	2,048
+181.110.240.0/21	 Telecom Personal S.A.	2,048
+181.110.24.0/21	 Telecom-CEB	2,048
+181.110.248.0/21	 Telecom Personal S.A.	2,048
+181.110.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.110.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.160.0/21	 Cooperativa Eléctrica de Las Perdices Ltda.	2,048
+181.111.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.168.0/21	 Telecom Argentina S.A.	2,048
+181.111.176.0/21	 TELECOM ARG EVENTO MADERO	2,048
+181.111.184.0/21	 TELECOM EVENTOS	2,048
+181.111.192.0/21	 I.C.T. NET S.A.	2,048
+181.111.200.0/21	 COOP TEL DE MONJE	2,048
+181.111.206.0/24	 COOP TEL DE MONJE	256
+181.111.208.0/21	 BOIERO S.A.	2,048
+181.111.216.0/21	 ORANGE BUSINESS SERVICES ARGEN	2,048
+181.111.224.0/21	 Cooperativa Eléctrica de Las Perdices Ltda.	2,048
+181.111.232.0/21	 COOPERATIVA TELEFONICA DE VILLA VALERIA	2,048
+181.111.240.0/21	 Telecom Personal LTE 4G	2,048
+181.111.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.248.0/21	 ARE SOC. DE HECHO DE YOVA N GERMAN Y JURE NATALIA	2,048
+181.111.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.111.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.11.192.0/18	 Telecom Personal Bs As	16,384
+181.1.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.12.0.0/20	 Telecom Argentina S.A.	4,096
+181.1.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.12.112.0/20	 Telecom Argentina S.A.	4,096
+181.12.144.0/20	 PROVIDERS S.A.	4,096
+181.12.16.0/20	 Telecom Argentina S.A.	4,096
+181.1.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.12.32.0/20	 Telecom Argentina S.A.	4,096
+181.1.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.1.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.12.48.0/20	 Telecom Argentina S.A.	4,096
+181.1.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.12.64.0/20	 Telecom Argentina S.A.	4,096
+181.12.80.0/20	 Telecom Argentina S.A.	4,096
+181.12.96.0/20	 TV MUSIC HOUSE JUJUY SRL	4,096
+181.13.0.0/20	 ABIB ANTONIO ANGEL	4,096
+181.13.11.0/24	 ALEJO RURAL S R L	256
+181.13.112.0/20	 ESTABLECIMIENTO CASCADA BLANCA S.A	4,096
+181.13.12.0/24	 ALEJO RURAL S R L	256
+181.13.128.0/20	 Datacenter TELECOM	4,096
+181.13.144.0/20	 COOP PROV DE OBRAS Y SERV PUB. M SUSANA	4,096
+181.13.148.0/24	 ALEJO RURAL S R L	256
+181.13.15.0/24	 ALEJO RURAL S R L	256
+181.13.160.0/20	 COOP. ELECTRICA MONTECARLO LTDA	4,096
+181.13.16.0/20	 COOPERATIVA DE SERVICIOS PÚBLICOS 19 DE SETIEMBRE LTDA.	4,096
+181.13.176.0/20	 COOP ARBOLITO DE SERV PUBLIC O	4,096
+181.13.192.0/20	 UNION DEL SUD COOP DE OBRAS Y SERVICIO PUBLICO Y CONSUMO LIM	4,096
+181.1.32.0/19	 Apolo -Gold-Telecom-Per	8,192
+181.13.208.0/20	 Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.	4,096
+181.13.224.0/20	 SAN GABRIEL VIDEO CABLE COLOR S.A.	4,096
+181.13.238.0/24	 TELEDIFUSORA S.A.	256
+181.13.240.0/20	 NORTE COMUNICACIONES S.A	4,096
+181.13.32.0/20	 ALTENIS ARGENTINA S.R.L.	4,096
+181.13.64.0/20	 Telecom Personal Bs As	4,096
+181.13.80.0/20	 Telecom Personal Bs As	4,096
+181.13.96.0/20	 GLOBAL TELECOMUNICACIONES SRL EF	4,096
+181.14.0.0/20	 Servicio Wi Fi	4,096
+181.14.104.0/21	 FONDO FIDUCIARIO DEL SERVICIO UNIVERSAL	2,048
+181.14.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.192.0/21	 INGENIERIA REDES DE CONTROL TELECOM	2,048
+181.14.200.0/21	 SEC.GRAL.DE LA GOBERNACION-GOB DE CORBOBA	2,048
+181.14.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.14.232.0/21	 BOCA ROJA S.A.	2,048
+181.14.240.0/21	 Telecom Personal	2,048
+181.14.248.0/21	 OVALLE OMAR EDUARDO	2,048
+181.14.64.0/21	 Servicio Wi Fi	2,048
+181.14.72.0/21	 FONDO FIDUCIARIO DEL SERVICIO UNIVERSAL	2,048
+181.14.80.0/21	 FONDO FIDUCIARIO DEL SERVICIO UNIVERSAL	2,048
+181.14.88.0/21	 FONDO FIDUCIARIO DEL SERVICIO UNIVERSAL	2,048
+181.14.96.0/21	 FONDO FIDUCIARIO DEL SERVICIO UNIVERSAL	2,048
+181.15.104.0/21	 AT&T	2,048
+181.15.112.0/21	 wifi offloading	2,048
+181.15.120.0/21	 SECURITAS ARGENTINA SA	2,048
+181.15.136.0/21	 ROBERTINO S A	2,048
+181.15.144.0/21	 Telecom Personal	2,048
+181.15.152.0/21	 Gonzalez Jorge T.	2,048
+181.15.160.0/21	 LABORATORIOS HIDALGO S.A.	2,048
+181.15.168.0/21	 UNION DEL SUD COOP DE OBRAS Y SERVICIO PUBLICO Y CONSUMO LIM	2,048
+181.15.176.0/21	 Telecom-CEB	2,048
+181.15.184.0/21	 AUTONEA MOTORS S.A.	2,048
+181.15.192.0/21	 Pogliotti & Pogliotti Construcciones S.A.	2,048
+181.15.200.0/21	 BT ARGENTINA S.R.L.	2,048
+181.15.208.0/21	 Telecom-CEB	2,048
+181.15.216.0/21	 Telecom Personal S.A.	2,048
+181.15.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.15.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.15.240.0/21	 NACION SEGUROS SOCIEDAD ANONIMA	2,048
+181.15.248.0/21	 COOP TELEFONICA Y DE OTROS SERVICIOS PUBLICOS DE SALTO GRANDE LIMITADA	2,048
+181.15.56.0/21	 Servicio Wi Fi	2,048
+181.15.64.0/20	 Servicio Wi Fi	4,096
+181.15.80.0/21	 Servicio Wi Fi	2,048
+181.15.88.0/21	 Tarjeta Naranja S.A	2,048
+181.15.96.0/21	 Pogliotti & Pogliotti Construcciones S.A.	2,048
+181.16.144.0/24	 Colsecor Cooperativa Limitada	256
+181.16.159.0/24	 Colsecor Cooperativa Limitada	256
+181.16.162.0/24	 Colsecor Cooperativa Limitada	256
+181.16.163.0/24	 Colsecor Cooperativa Limitada	256
+181.16.181.0/24	 Coop. Luz y Fuerza Villa De Soto	256
+181.16.198.0/24	 Colsecor Cooperativa Limitada	256
+181.16.199.0/24	 Colsecor Cooperativa Limitada	256
+181.1.64.0/19	 Apolo -Gold-Telecom-Per	8,192
+181.177.200.0/21	 LocalHost S.A.	2,048
+181.1.96.0/19	 Apolo -Gold-Telecom-Per	8,192
+181.3.0.0/20	 Telecom Personal Bs As	4,096
+181.3.112.0/20	 Telecom Personal Bs As	4,096
+181.3.128.0/20	 Telecom Personal Bs As	4,096
+181.3.144.0/20	 Telecom Personal Bs As	4,096
+181.3.160.0/20	 Telecom Personal Bs As	4,096
+181.3.16.0/20	 Telecom Personal Bs As	4,096
+181.3.176.0/20	 Telecom Personal Bs As	4,096
+181.3.192.0/20	 Telecom Personal Bs As	4,096
+181.3.208.0/20	 Telecom Personal Bs As	4,096
+181.3.224.0/20	 Telecom Personal Bs As	4,096
+181.3.240.0/20	 Telecom Personal Bs As	4,096
+181.3.32.0/20	 Telecom Personal Bs As	4,096
+181.3.48.0/20	 Telecom Personal Bs As	4,096
+181.3.64.0/20	 Telecom Personal Bs As	4,096
+181.3.80.0/20	 Telecom Personal Bs As	4,096
+181.3.96.0/20	 Telecom Personal Bs As	4,096
+181.4.0.0/20	 Telecom Personal Bs As	4,096
+181.4.112.0/20	 Telecom Personal Bs As	4,096
+181.4.128.0/20	 Telecom Personal Bs As	4,096
+181.4.144.0/20	 Telecom Personal Bs As	4,096
+181.4.160.0/20	 Telecom Personal Bs As	4,096
+181.4.16.0/20	 Telecom Personal Bs As	4,096
+181.4.176.0/20	 Telecom Personal Bs As	4,096
+181.4.192.0/20	 Telecom Personal Bs As	4,096
+181.4.208.0/20	 Telecom Personal Bs As	4,096
+181.4.224.0/20	 Telecom Personal Bs As	4,096
+181.4.240.0/20	 Telecom Personal Bs As	4,096
+181.4.32.0/20	 Telecom Personal Bs As	4,096
+181.4.48.0/20	 Telecom Personal Bs As	4,096
+181.4.64.0/20	 Telecom Personal Bs As	4,096
+181.4.80.0/20	 Telecom Personal Bs As	4,096
+181.4.96.0/20	 Telecom Personal Bs As	4,096
+181.5.192.0/20	 Telecom Personal Bs As	4,096
+181.5.208.0/20	 Telecom Personal Bs As	4,096
+181.5.224.0/20	 Telecom Personal Bs As	4,096
+181.5.240.0/20	 Telecom Personal Bs As	4,096
+181.6.0.0/20	 Telecom Personal Bs As	4,096
+181.6.112.0/20	 Telecom Personal Bs As	4,096
+181.6.128.0/20	 Telecom Personal Bs As	4,096
+181.6.144.0/20	 Telecom Personal Bs As	4,096
+181.6.160.0/20	 Telecom Personal Bs As	4,096
+181.6.16.0/20	 Telecom Personal Bs As	4,096
+181.6.176.0/20	 Telecom Personal Bs As	4,096
+181.6.192.0/20	 Telecom Personal Bs As	4,096
+181.6.208.0/20	 Telecom Personal Bs As	4,096
+181.6.224.0/20	 Telecom Personal Bs As	4,096
+181.6.240.0/20	 Telecom Personal Bs As	4,096
+181.6.32.0/20	 Telecom Personal Bs As	4,096
+181.6.48.0/20	 Telecom Personal Bs As	4,096
+181.6.64.0/20	 Telecom Personal Bs As	4,096
+181.6.80.0/20	 Telecom Personal Bs As	4,096
+181.6.96.0/20	 Telecom Personal Bs As	4,096
+181.7.0.0/20	 Telecom Personal Bs As	4,096
+181.7.112.0/20	 Telecom Personal Bs As	4,096
+181.7.128.0/20	 Telecom Personal Bs As	4,096
+181.7.144.0/20	 Telecom Personal Bs As	4,096
+181.7.160.0/20	 Telecom Personal Bs As	4,096
+181.7.16.0/20	 Telecom Personal Bs As	4,096
+181.7.176.0/20	 Telecom Personal Bs As	4,096
+181.7.192.0/20	 Telecom Personal Bs As	4,096
+181.7.208.0/20	 Telecom Personal Bs As	4,096
+181.7.224.0/20	 Telecom Personal Bs As	4,096
+181.7.240.0/20	 Telecom Personal Bs As	4,096
+181.7.32.0/20	 Telecom Personal Bs As	4,096
+181.7.48.0/20	 Telecom Personal Bs As	4,096
+181.7.64.0/20	 Telecom Personal Bs As	4,096
+181.7.80.0/20	 Telecom Personal Bs As	4,096
+181.7.96.0/20	 Telecom Personal Bs As	4,096
+181.80.0.0/20	 TELECOM ARG EVENTO MADERO	4,096
+181.8.0.0/18	 Telecom Personal Bs As	16,384
+181.8.128.0/17	 Telecom Personal Bs As	32,768
+181.82.224.0/20	 Telecom Personal Bs As	4,096
+181.83.0.0/20	 Telecom Argentina S.A.	4,096
+181.83.112.0/20	 Telecom Argentina S.A.	4,096
+181.83.128.0/20	 Telecom Argentina S.A.	4,096
+181.83.144.0/20	 Telecom Argentina S.A.	4,096
+181.83.160.0/20	 Telecom Argentina S.A.	4,096
+181.83.16.0/20	 Telecom Argentina S.A.	4,096
+181.83.176.0/20	 Telecom Argentina S.A.	4,096
+181.83.192.0/20	 Telecom Argentina S.A.	4,096
+181.83.208.0/20	 Telecom Argentina S.A.	4,096
+181.83.224.0/20	 Telecom Argentina S.A.	4,096
+181.83.240.0/20	 Telecom Argentina S.A.	4,096
+181.83.32.0/20	 Telecom Argentina S.A.	4,096
+181.83.48.0/20	 Telecom Argentina S.A.	4,096
+181.83.64.0/20	 Telecom Argentina S.A.	4,096
+181.83.80.0/20	 Telecom Argentina S.A.	4,096
+181.83.96.0/20	 Telecom Argentina S.A.	4,096
+181.85.0.0/20	 Telecom Personal Bs As	4,096
+181.85.112.0/20	 Telecom Personal Bs As	4,096
+181.85.128.0/20	 Telecom Personal Bs As	4,096
+181.85.144.0/20	 Telecom Personal Bs As	4,096
+181.85.160.0/20	 Telecom Personal Bs As	4,096
+181.85.16.0/20	 Telecom Personal Bs As	4,096
+181.85.176.0/20	 Telecom Personal Bs As	4,096
+181.85.192.0/20	 Telecom Personal Bs As	4,096
+181.85.208.0/20	 Telecom Personal Bs As	4,096
+181.85.224.0/20	 Telecom Personal Bs As	4,096
+181.85.240.0/20	 Telecom Personal Bs As	4,096
+181.85.32.0/20	 Telecom Personal Bs As	4,096
+181.85.48.0/20	 Telecom Personal Bs As	4,096
+181.85.64.0/20	 Telecom Personal Bs As	4,096
+181.85.80.0/20	 Telecom Personal Bs As	4,096
+181.85.96.0/20	 Telecom Personal Bs As	4,096
+181.86.0.0/19	 Telecom Personal Bs As	8,192
+181.86.128.0/19	 Telecom Personal Bs As	8,192
+181.86.160.0/19	 Telecom Personal Bs As	8,192
+181.86.192.0/19	 Telecom Personal Bs As	8,192
+181.86.224.0/19	 Telecom Personal Bs As	8,192
+181.86.32.0/19	 Telecom Personal Bs As	8,192
+181.8.64.0/18	 Telecom Personal Bs As	16,384
+181.86.64.0/19	 Telecom Personal Bs As	8,192
+181.86.96.0/19	 Telecom Personal Bs As	8,192
+181.87.0.0/20	 Telecom Personal Bs As	4,096
+181.87.112.0/20	 Telecom Personal Bs As	4,096
+181.87.128.0/20	 Telecom Personal Bs As	4,096
+181.87.144.0/20	 Telecom Personal Bs As	4,096
+181.87.160.0/20	 Telecom Personal Bs As	4,096
+181.87.16.0/20	 Telecom Personal Bs As	4,096
+181.87.176.0/20	 Telecom Personal Bs As	4,096
+181.87.192.0/20	 Telecom Personal Bs As	4,096
+181.87.208.0/20	 Telecom Personal Bs As	4,096
+181.87.224.0/20	 Telecom Personal Bs As	4,096
+181.87.240.0/20	 Telecom Personal Bs As	4,096
+181.87.32.0/20	 Telecom Personal Bs As	4,096
+181.87.48.0/20	 Telecom Personal Bs As	4,096
+181.87.64.0/20	 Telecom Personal Bs As	4,096
+181.87.80.0/20	 Telecom Personal Bs As	4,096
+181.87.96.0/20	 Telecom Personal Bs As	4,096
+181.88.176.0/20	 Telecom Personal S.A.	4,096
+181.88.192.0/21	 ELSERVER.COM	2,048
+181.88.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.88.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.88.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.88.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.88.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.88.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.88.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.89.48.0/20	 Telecom Personal Bs As	4,096
+181.90.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.9.0.0/18	 Telecom Personal Bs As	16,384
+181.90.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.160.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.16.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.176.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.192.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.208.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.224.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.240.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.90.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.160.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.16.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.176.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.192.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.208.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.224.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.240.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.9.128.0/18	 Telecom Personal Bs As	16,384
+181.91.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.91.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.160.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.16.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.176.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.192.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.208.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.224.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.240.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.92.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.160.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.16.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.176.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.192.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.208.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.224.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.93.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.160.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.16.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.176.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.192.0/20	 Telecom Argentina S.A.	4,096
+181.94.32.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.48.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.94.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.112.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.128.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.144.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.160.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.16.0/21	 Telecom Argentina S.A.	2,048
+181.95.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.24.0/21	 Telecom Argentina S.A.	2,048
+181.95.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.32.0/21	 Telecom Argentina S.A.	2,048
+181.95.40.0/21	 Telecom Argentina S.A.	2,048
+181.95.48.0/21	 Telecom Argentina S.A.	2,048
+181.95.56.0/21	 Telecom Argentina S.A.	2,048
+181.95.64.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.80.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.95.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+181.95.96.0/20	 Apolo -Gold-Telecom-Per	4,096
+181.9.64.0/18	 Telecom Personal Bs As	16,384
+181.97.0.0/20	 Telecom Personal Bs As	4,096
+186.108.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.108.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.112.0/21	 Telecom Argentina S.A.	2,048
+186.109.120.0/21	 Telecom Argentina S.A.	2,048
+186.109.128.0/21	 Telecom Argentina S.A.	2,048
+186.109.136.0/21	 Telecom Argentina S.A.	2,048
+186.109.144.0/21	 Telecom Argentina S.A.	2,048
+186.109.152.0/21	 Telecom Argentina S.A.	2,048
+186.109.160.0/21	 Telecom Argentina S.A.	2,048
+186.109.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.168.0/21	 Telecom Argentina S.A.	2,048
+186.109.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.248.0/21	 Telecom Argentina S.A.	2,048
+186.109.80.0/21	 ARNET - ADSL - IPFIJA	2,048
+186.109.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.109.88.0/21	 ARNET - ADSL - IPFIJA	2,048
+186.109.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.110.0.0/21	 Telecom Personal Bs As	2,048
+186.110.104.0/21	 Telecom Personal Bs As	2,048
+186.110.112.0/21	 Telecom Personal Bs As	2,048
+186.110.120.0/21	 Telecom Personal Bs As	2,048
+186.110.16.0/21	 Telecom Personal Bs As	2,048
+186.110.176.0/21	 Telecom Personal Bs As	2,048
+186.110.184.0/21	 Telecom Personal Bs As	2,048
+186.110.192.0/21	 Telecom Personal Bs As	2,048
+186.110.200.0/21	 Telecom Personal Bs As	2,048
+186.110.208.0/21	 Telecom Personal Bs As	2,048
+186.110.216.0/21	 Telecom Personal Bs As	2,048
+186.110.224.0/21	 Telecom Personal Bs As	2,048
+186.110.232.0/21	 Telecom Personal Bs As	2,048
+186.110.240.0/21	 Telecom Personal Bs As	2,048
+186.110.24.0/21	 Telecom Personal Bs As	2,048
+186.110.248.0/21	 Telecom Personal Bs As	2,048
+186.110.32.0/20	 Telecom Personal Bs As	4,096
+186.110.32.0/21	 Telecom Personal Bs As	2,048
+186.110.40.0/21	 Telecom Personal Bs As	2,048
+186.110.48.0/20	 Telecom Personal Bs As	4,096
+186.110.48.0/21	 Telecom Personal Bs As	2,048
+186.110.56.0/21	 Telecom Personal Bs As	2,048
+186.110.64.0/21	 Telecom Personal Bs As	2,048
+186.110.72.0/21	 Telecom Personal Bs As	2,048
+186.110.80.0/21	 Telecom Personal Bs As	2,048
+186.110.8.0/21	 Telecom Personal Bs As	2,048
+186.110.88.0/21	 Telecom Personal Bs As	2,048
+186.110.96.0/21	 Telecom Personal Bs As	2,048
+186.111.0.0/20	 Telecom Personal Bs As	4,096
+186.111.144.0/20	 Telecom Personal Bs As	4,096
+186.111.160.0/20	 Telecom Personal Bs As	4,096
+186.111.240.0/20	 Telecom Personal Bs As	4,096
+186.124.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.112.0/21	 Telecom Personal Bs As	2,048
+186.124.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.216.0/21	 Cooperativa Achiras	2,048
+186.124.222.0/24	 Interlink S.R.L.	256
+186.124.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.124.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.152.0/21	 Cooperativa Luz y Fuerza Guatimozin	2,048
+186.125.152.0/23	 Cooperativa Luz y Fuerza Guatimozin	512
+186.125.154.0/24	 COOP TEL DE MONJE	256
+186.125.160.0/21	 Cooperativa de Prov de Elect y otros Serv Publicos Ltda. Pueblo	2,048
+186.125.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.168.0/21	 INTERCITY COMUNICACIONES S.A.	2,048
+186.125.176.0/21	 Colsecor Cooperativa Limitada	2,048
+186.125.184.0/21	 Video Vision Centro	2,048
+186.125.192.0/21	 Cooperativa Telefónica de Adelia María Ltda	2,048
+186.125.200.0/21	 COOP TEL DE MONJE	2,048
+186.125.204.0/24	 COOP TEL DE MONJE	256
+186.125.205.0/24	 COOP TEL DE MONJE	256
+186.125.206.0/24	 COOP TEL DE MONJE	256
+186.125.207.0/24	 COOP TEL DE MONJE	256
+186.125.208.0/21	 TRASLASIERRA CABLE COLOR SA	2,048
+186.125.216.0/21	 Cooperativa de Prov de Elect y otros Serv Publicos Ltda. Pueblo	2,048
+186.125.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.232.0/21	 Gualberto Larrauri	2,048
+186.125.240.0/21	 Datacenter TELECOM	2,048
+186.125.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.248.0/21	 COOP.DE OB.Y SERVICIOS PUB. DE MARCOS JUAREZ	2,048
+186.125.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.48.0/21	 Internet Services S.A.	2,048
+186.125.50.0/23	 Colsecor Cooperativa Limitada	512
+186.125.50.0/24	 Colsecor Cooperativa Limitada	256
+186.125.51.0/24	 Colsecor Cooperativa Limitada	256
+186.125.56.0/21	 Pogliotti & Pogliotti Construcciones S.A.	2,048
+186.125.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.125.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.126.0.0/20	 Telecom Personal Bs As	4,096
+186.126.112.0/20	 Telecom Personal Bs As	4,096
+186.126.128.0/20	 Telecom Personal Bs As	4,096
+186.126.144.0/20	 Telecom Personal Bs As	4,096
+186.126.160.0/20	 Telecom Personal Bs As	4,096
+186.126.16.0/20	 Telecom Personal Bs As	4,096
+186.126.176.0/20	 Telecom Personal Bs As	4,096
+186.126.192.0/20	 Telecom Personal Bs As	4,096
+186.126.208.0/20	 Telecom Personal Bs As	4,096
+186.126.224.0/20	 Telecom Personal Bs As	4,096
+186.126.240.0/20	 Telecom Personal Bs As	4,096
+186.126.32.0/20	 Telecom Personal Bs As	4,096
+186.126.48.0/20	 Telecom Personal Bs As	4,096
+186.126.64.0/20	 Telecom Personal Bs As	4,096
+186.126.80.0/20	 Telecom Personal Bs As	4,096
+186.126.96.0/20	 Telecom Personal Bs As	4,096
+186.127.0.0/20	 Telecom Personal Bs As	4,096
+186.127.112.0/20	 Telecom Personal Bs As	4,096
+186.127.128.0/20	 Telecom Personal Bs As	4,096
+186.127.144.0/20	 Telecom Personal Bs As	4,096
+186.127.160.0/20	 Telecom Personal Bs As	4,096
+186.127.16.0/20	 Telecom Personal Bs As	4,096
+186.127.176.0/20	 Telecom Personal Bs As	4,096
+186.127.192.0/20	 Telecom Personal Bs As	4,096
+186.127.208.0/20	 Telecom Personal Bs As	4,096
+186.127.224.0/20	 Telecom Personal Bs As	4,096
+186.127.240.0/20	 Telecom Personal Bs As	4,096
+186.127.32.0/20	 Telecom Personal Bs As	4,096
+186.127.48.0/20	 Telecom Personal Bs As	4,096
+186.127.64.0/20	 Telecom Personal Bs As	4,096
+186.127.80.0/20	 Telecom Personal Bs As	4,096
+186.127.96.0/20	 Telecom Personal Bs As	4,096
+186.152.0.0/20	 Telecom Personal Bs As	4,096
+186.152.112.0/20	 Telecom Personal Bs As	4,096
+186.152.128.0/20	 Telecom Personal Bs As	4,096
+186.152.144.0/20	 Telecom Personal Bs As	4,096
+186.152.160.0/20	 Telecom Personal Bs As	4,096
+186.152.16.0/20	 Telecom Personal Bs As	4,096
+186.152.176.0/20	 Telecom Personal Bs As	4,096
+186.152.192.0/20	 Telecom Personal Bs As	4,096
+186.152.208.0/20	 Telecom Personal Bs As	4,096
+186.152.224.0/20	 Telecom Personal Bs As	4,096
+186.152.240.0/20	 Telecom Personal Bs As	4,096
+186.152.32.0/20	 Telecom Personal Bs As	4,096
+186.152.48.0/20	 Telecom Personal Bs As	4,096
+186.152.64.0/20	 Telecom Personal Bs As	4,096
+186.152.80.0/20	 Telecom Personal Bs As	4,096
+186.152.96.0/20	 Telecom Personal Bs As	4,096
+186.153.0.0/21	 Cotelvo Ltda.	2,048
+186.153.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.120.0/21	 Pogliotti & Pogliotti Construcciones S.A.	2,048
+186.153.128.0/21	 COOPERATIVA ELECTRICA LIMITADA DE RUFINO	2,048
+186.153.136.0/21	 Andrea Villasante	2,048
+186.153.144.0/21	 Telecom Argentina S.A.	2,048
+186.153.160.0/21	 Internet Para Todos - Gobierno de La Rioja	2,048
+186.153.16.0/21	 Servicio Wi Fi	2,048
+186.153.168.0/21	 ARSAT - EMPRESA ARGENTINA DE SOLUCIONES SATELITALES S.A.	2,048
+186.153.176.0/21	 TELECOM EVENTOS	2,048
+186.153.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.200.0/21	 INTERSERVICES MANAGEMENT COMPANY Ltd.	2,048
+186.153.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.7.0/24	 Cotelvo Ltda.	256
+186.153.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.8.0/21	 APOLO COOP VILLA LA ANGOSTURA	2,048
+186.153.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.153.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+186.159.124.0/23	 XF Comunicaciones S.A.	512
+190.103.176.0/22	 TL Group SRL ( IPXON Networks )	1,024
+190.106.128.0/22	 G2KHosting S.A.	1,024
+190.106.132.0/22	 Soluciones Punto COM, SA de CV	1,024
+190.106.144.0/22	 G2KHosting S.A.	1,024
+190.109.52.0/22	 Dese Technologies Argentina S.A.	1,024
+190.109.60.0/24	 Dese Technologies Argentina S.A.	256
+190.136.0.0/16	 Telecom Argentina S.A.	65,536
+190.136.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.143.0/24	 Desarrollos Internet S.A.	256
+190.136.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.16.0/21	 Cooperativa de Cooperativas Intergrupo	2,048
+190.136.168.0/21	 Telecom Internet	2,048
+190.136.176.0/21	 Telecom Internet	2,048
+190.136.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.248.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.136.32.0/21	 Cooperativa Telefónica de Suardi Ltda.	2,048
+190.136.40.0/21	 Colsecor Cooperativa Limitada	2,048
+190.136.42.0/24	 Colsecor Cooperativa Limitada	256
+190.136.54.0/24	 Desarrollos Internet S.A.	256
+190.136.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.8.0/21	 Colsecor Cooperativa Limitada	2,048
+190.136.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.136.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.144.0/21	 Integral Insumos	2,048
+190.137.152.0/21	 ZONANET DIGITAL SRL	2,048
+190.137.157.0/24	 Cotelvo Ltda.	256
+190.137.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.137.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.160.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.176.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.206.0/24	 ANTANET SA	256
+190.138.208.0/21	 Cooperativa Electrica Limitada Obera	2,048
+190.138.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.248.0/21	 PICCININ I	2,048
+190.138.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.8.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.138.96.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.0.0/20	 Apolo -Gold-Telecom-Per	4,096
+190.139.104.0/21	 PETROBRAS ENERGIA S.A.	2,048
+190.139.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.160.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.139.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.168.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.139.176.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.139.184.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.139.192.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.139.200.0/21	 Telecom-Apolo-Lado-Tasa	2,048
+190.139.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.139.96.0/21	 Telecom Argentina S.A.	2,048
+190.185.130.0/24	 Red Intercable Digital S.A.	256
+190.185.204.0/24	 Dese Technologies Argentina S.A.	256
+190.185.209.0/24	 Vision S.A.	256
+190.185.210.0/24	 Vision S.A.	256
+190.224.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.112.0/21	 COOPERATIVA PUJATO DE CASILDA	2,048
+190.224.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.160.0/22	 Datacenter TELECOM	1,024
+190.224.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.196.0/22	 Telecom-CEB	1,024
+190.224.198.0/24	 Colsecor Cooperativa Limitada	256
+190.224.200.0/21	 Cooperativa de Servicios Públicos de Porteña LTDA	2,048
+190.224.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.248.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.32.0/21	 COOPERATIVA TELEFONICA DE VERA Y PINTADO	2,048
+190.224.40.0/21	 LASA RUBEN ORLANDO	2,048
+190.224.46.0/24	 Colsecor Cooperativa Limitada	256
+190.224.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.56.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.64.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.72.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.80.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.88.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.224.96.0/21	 COOPERATIVA TELEFONICA DE VERA Y PINTADO	2,048
+190.225.0.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.104.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.112.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.120.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.128.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.136.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.144.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.152.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.160.0/21	 INFRACOM DE INFRAESTRUCTURAS S .A.	2,048
+190.225.16.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.164.0/24	 COOPERATIVA TELEFONICA MARGARITA	256
+190.225.168.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.176.0/21	 Sergio Daniel Ceballos	2,048
+190.225.184.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.192.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.200.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.208.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.216.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.224.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.232.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.240.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.24.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.32.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.40.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.48.0/21	 Apolo -Gold-Telecom-Per	2,048
+190.225.56.0/21	 Apolo -Gold-Telecom-Per	2,048

